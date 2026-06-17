@@ -59,7 +59,7 @@ data — so you can produce all three in one session.
 
 Requirements: Python 3.9 or higher, Anthropic API key
 
-  git clone https://github.com/maleechanel/impact-story-generator.git
+  git clone https://github.com/sumaleesimmonds/impact-story-generator.git
   cd impact-story-generator
   pip3 install anthropic
   export ANTHROPIC_API_KEY="sk-ant-your-key-here"
